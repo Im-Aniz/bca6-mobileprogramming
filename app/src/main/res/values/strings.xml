@@ -30,4 +30,5 @@
     <string name="payment_mobile">Mobile Banking</string>
     <string name="checkbox_recurring">Recurring Expense (Monthly)</string>
     <string name="error_select_category">Please select a valid expense category!</string>
+    <string name="lab_btn">Lab works</string>
 </resources>
